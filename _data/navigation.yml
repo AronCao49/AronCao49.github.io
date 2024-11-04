@@ -6,22 +6,10 @@
 
 main:
   - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
+    url: /publications/ 
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
+  - title: "Experiences"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  - title: "Comrades and Friends"
+    url: /friends/

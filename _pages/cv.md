@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,54 +10,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in EEE (3D Segmentation and Domain Adaptation), Nanyang Technological University, 2025 (expected)
+* M.S. in EEE (Video Action Recognition), Nanyang Technological University, 2021
+* B.S. in EEE, Wuhan University, 2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 01/2022 till now: Research Associate
+  * [CARTIN](https://www.ntu.edu.sg/cartin), Nanyang Technological University
+  * Developed **label-efficient** multi-modal perception systems with **offline and online adaptation**.
+  * Supervisor: [Prof. Lihua Xie](https://scholar.google.com.sg/citations?user=Fmrv3J8AAAAJ&hl=en)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 10/2021-01/2022: Solution Architect Intern
+  * NVIDIA AI Tech Centre, Singapore
+  * Maintained and tested CV course modules incorporating **NVIDIA TAO toolkit** and **DeepStream SDK** for customers.
+  * Supervisor: [Dr. Aik Beng Ng](https://scholar.google.com/citations?user=FkOwHcAAAAAJ&hl=en)
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* [NVIDIA DLI Student Ambassador](https://learn.nvidia.com/certificates?id=86ba8b6f68484c9da1620f9815ffca3e). Certified to deliver the DLI workshop: Fundamentals of Deep Learning (English).
