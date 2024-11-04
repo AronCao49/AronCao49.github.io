@@ -1,13 +1,12 @@
 ---
 permalink: /
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-About Me
-======
 I am a fourth-year PhD candidate at EEE, NTU in Singapore, supervised by Prof. Lihua Xie. I am also a research associate at the Centre for Advanced Robotics Technology Innovation (CARTIN). Before that, I obtained my bachelor (2019) and master (2021) degree from Wuhan University and NTU, respectively.
 
 My research mainly focuses on **efficient 3D semantic segmentation** and **video-based action recognition**. I am interested in improving perception systems with trivial human annotations in both online and offline manners. I am also glad to work with my colleagues to leverage semantic understanding in different tasks.
