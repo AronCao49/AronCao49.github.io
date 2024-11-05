@@ -13,6 +13,7 @@ My research mainly focuses on **efficient 3D semantic segmentation** and **video
 
 Recent News
 ======
+* \[11/2024\]: **One paper** has been accepted by RA-L! Check this [link](https://ieeexplore-ieee-org.remotexs.ntu.edu.sg/abstract/document/10715566) for more details!
 * \[07/2024\]: **Our survey paper** has been accepted by ACM Computing survey! Check this [link](https://dl.acm.org/doi/10.1145/3679010) for more details!
 * \[06/2024\]: **One paper** has been accepted by ECCV 2024🥳 Check our [project site](https://sites.google.com/view/eccv24-latte) and [code repo](https://github.com/AronCao49/Latte/) for more details. See you in Milano!
 * \[02/2024\]: **Our dataset paper** has been accepted by CVPR 2024! Congrats to all the collaborators! Check the [MCD website](https://mcdviral.github.io/) for more details.
