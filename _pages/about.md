@@ -25,6 +25,7 @@ Recent News
 Reviewer Services
 =====
 1. Conference Invited Reviewer:
+  * (2025) International Conference on Computer Vision (ICCV).
   * (2024, 2025) The Conference on Computer Vision and Pattern Recognition (CVPR).
   * (2024, 2025) IEEE International Conference on Robotics and Automation (ICRA).
 2. Journal Invited Reviewer:
