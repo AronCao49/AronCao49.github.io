@@ -7,7 +7,7 @@ author_profile: true
 
 I am glad to have the chance to collaborate with the following comrades and friends during my academic study:
 
-* [Asst. Prof. Jianfei Yang](https://marsyang.site/), Assistant Professor, MAE/EEE, NTU.
+* [Dr. Jianfei Yang](https://marsyang.site/), Assistant Professor, MAE/EEE, NTU.
 
 * [Dr. Yuecong Xu](https://xuyu0010.wixsite.com/xuyu0010), Lecturer, ECE, National University of Singapore.
 
@@ -17,6 +17,6 @@ I am glad to have the chance to collaborate with the following comrades and frie
 
 * [Dr. Thien-Minh Nguyen](https://brytsknguyen.github.io/), Research Assistant Professor, CARTIN, NTU.
 
-* [Mr. Pengyu Yin](https://pamphlett.github.io/), PhD Candidate, CARTIN/EEE, NTU.
+* [Pengyu Yin](https://pamphlett.github.io/), PhD Candidate, CARTIN/EEE, NTU.
 
-* [Mr. Xingyu Ji](https://scholar.google.com/citations?user=qcLKoccAAAAJ&hl=en), PhD Candidate, CARTIN/EEE, NTU.
+* [Xingyu Ji](https://scholar.google.com/citations?user=qcLKoccAAAAJ&hl=en), PhD Candidate, CARTIN/EEE, NTU.

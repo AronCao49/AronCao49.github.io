@@ -28,7 +28,8 @@ Reviewer Services
 1. Conference Invited Reviewer:
   * (2025) International Conference on Computer Vision (ICCV).
   * (2024, 2025) The Conference on Computer Vision and Pattern Recognition (CVPR).
-  * (2024, 2025) IEEE International Conference on Robotics and Automation (ICRA).
+  * (2024, 2025) International Conference on Robotics and Automation (ICRA).
+  * (2025) International Conference on Intelligent Robots and Systems (IROS).
 2. Journal Invited Reviewer:
   * IEEE Transactions on Neural Networks and Learning Systems (IEEE T-NNLS).
   * IEEE Transactions on Cybernetics (IEEE T-Cyber).
