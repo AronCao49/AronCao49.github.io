@@ -20,3 +20,5 @@ I am glad to have the chance to collaborate with the following comrades and frie
 * [Pengyu Yin](https://pamphlett.github.io/), PhD Candidate, CARTIN/EEE, NTU.
 
 * [Xingyu Ji](https://scholar.google.com/citations?user=qcLKoccAAAAJ&hl=en), PhD Candidate, CARTIN/EEE, NTU.
+
+* [Rui Qian](https://scholar.google.com/citations?user=ezQHNKwAAAAJ&hl=en), Master student, EEE, NTU.

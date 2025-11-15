@@ -7,12 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year PhD candidate at EEE, NTU in Singapore, supervised by Prof. Lihua Xie. I am also a research associate at the Centre for Advanced Robotics Technology Innovation (CARTIN). Before that, I obtained my bachelor (2019) and master (2021) degree from Wuhan University and NTU, respectively.
+I am currently a Project Academic Specialist (Project Assistant Professor upon PhD conferral) in Research Center for Advanced Science and Technology, University of Tokyo, under the supervision of Prof. Tatsuya Harada. I conducted my PhD study at EEE, NTU in Singapore, supervised by Prof. Lihua Xie. I was also a research associate at the Centre for Advanced Robotics Technology Innovation (CARTIN). Before that, I obtained my bachelor (2019) and master (2021) degree from Wuhan University and NTU, respectively.
 
 My research mainly focuses on **efficient multi-modal 3D perception** and **video-based action recognition**. I am interested in improving perception systems with trivial human annotations in both online and offline manners. I am also glad to work with my colleagues to leverage semantic understanding in different tasks.
 
 Recent News
 ======
+* \[11/2025\]: **One paper** has been accepted by AAAI 2026 **(oral)**! Congrats to all collaborators! Check this [link](https://arxiv.org/abs/2508.02261) for more details. Code will be availabel soon.
 * \[02/2025\]: **One paper** has been accepted by ICRA 2025! Check this [link](https://arxiv.org/pdf/2410.00589) for more details!
 * \[11/2024\]: **One paper** has been accepted by RA-L! Check this [link](https://ieeexplore.ieee.org/document/10715566?source=authoralert) for more details!
 * \[07/2024\]: **Our survey paper** has been accepted by ACM Computing survey! Check this [link](https://dl.acm.org/doi/10.1145/3679010) for more details!
