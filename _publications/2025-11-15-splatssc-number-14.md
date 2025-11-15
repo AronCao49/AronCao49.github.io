@@ -5,7 +5,7 @@ collection: publications
 category: conferences
 # permalink: /publication/2024-10-01-VudaSurvey-number-2
 date: 2025-11-15
-venue: 'Annual AAAI Conference on Artificial Intelligence (AAAI)'
+venue: 'The 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026)'
 authors: Rui Qian*, <b>Haozhi Cao*</b>, Tianchen Deng, Shenghai Yuan, Lihua Xie
 arxivurl: 'https://arxiv.org/pdf/2508.02261'
 ---
