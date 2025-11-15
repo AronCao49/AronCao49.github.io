@@ -16,7 +16,11 @@ Education
 
 Work experience
 ======
-* 01/2022 till now: Research Associate
+* 11/2025 till now: Project Academic Specialist
+  * [MIL Lab](https://www.mi.t.u-tokyo.ac.jp/en), RCAST, UTokyo
+  * Supervisor: [Prof. Tatsuya Harada](https://www.mi.t.u-tokyo.ac.jp/harada/)
+  
+* 01/2022-09/2025: Research Associate
   * [CARTIN](https://www.ntu.edu.sg/cartin), Nanyang Technological University
   * Developed **label-efficient** multi-modal perception systems with **offline and online adaptation**.
   * Supervisor: [Prof. Lihua Xie](https://scholar.google.com.sg/citations?user=Fmrv3J8AAAAJ&hl=en)
