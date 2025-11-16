@@ -13,7 +13,7 @@ My research mainly focuses on **efficient multi-modal 3D perception** and **vide
 
 Recent News
 ======
-* \[11/2025\]: **One paper** has been accepted by AAAI 2026 **(oral)**! Congrats to all collaborators! Check this [link](https://arxiv.org/abs/2508.02261) for more details. Code will be availabel soon.
+* \[11/2025\]: **One paper** has been accepted by AAAI 2026 **(oral)**! Congrats to all collaborators! Check this [link](https://arxiv.org/abs/2508.02261) for more details. [Code](https://github.com/Made-Gpt/SplatSSC) is now available.
 * \[02/2025\]: **One paper** has been accepted by ICRA 2025! Check this [link](https://arxiv.org/pdf/2410.00589) for more details!
 * \[11/2024\]: **One paper** has been accepted by RA-L! Check this [link](https://ieeexplore.ieee.org/document/10715566?source=authoralert) for more details!
 * \[07/2024\]: **Our survey paper** has been accepted by ACM Computing survey! Check this [link](https://dl.acm.org/doi/10.1145/3679010) for more details!
