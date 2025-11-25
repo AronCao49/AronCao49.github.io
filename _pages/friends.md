@@ -15,7 +15,7 @@ I am glad to have the chance to collaborate with the following comrades and frie
 
 * [Dr. Shenghai Yuan](https://scholar.google.com/citations?user=XcV_sesAAAAJ&hl=en), Senior Research Fellow, CARTIN, NTU.
 
-* [Dr. Thien-Minh Nguyen](https://brytsknguyen.github.io/), Research Assistant Professor, CARTIN, NTU.
+* [Dr. Thien-Minh Nguyen](https://brytsknguyen.github.io/), Lecturer in Robotics, The University of Queensland.
 
 * [Pengyu Yin](https://pamphlett.github.io/), PhD Candidate, CARTIN/EEE, NTU.
 
