@@ -13,6 +13,9 @@ My research mainly focuses on **efficient multi-modal 3D perception** and **vide
 
 Recent News
 ======
+* \[02/2026\]: **Two paper** have been accepted by CVPR 2026! Congrats to all collaborators! Arxiv version are available at these links: [TGSFormer](https://arxiv.org/pdf/2512.00300) and [AbstainEQA](https://arxiv.org/abs/2512.04597).
+* \[11/2025\]: I'm excited to share that I've joined the MIL Lab (Harada-Kurose-Mukuta Lab) at The University of Tokyo as a Project Academic Specialist!
+* \[11/2025\]: **One paper** has been accepted by RA-L! Congrats to all collaborators! Check this [link](https://ieeexplore.ieee.org/abstract/document/11123778/) for more details
 * \[11/2025\]: **One paper** has been accepted by AAAI 2026 **(oral)**! Congrats to all collaborators! Check this [link](https://arxiv.org/abs/2508.02261) for more details. [Code](https://github.com/Made-Gpt/SplatSSC) is now available.
 * \[02/2025\]: **One paper** has been accepted by ICRA 2025! Check this [link](https://arxiv.org/pdf/2410.00589) for more details!
 * \[11/2024\]: **One paper** has been accepted by RA-L! Check this [link](https://ieeexplore.ieee.org/document/10715566?source=authoralert) for more details!
@@ -27,13 +30,15 @@ Recent News
 Reviewer Services
 =====
 1. Conference Invited Reviewer:
+  * (2024-2026) The Conference on Computer Vision and Pattern Recognition (CVPR).
   * (2025) International Conference on Computer Vision (ICCV).
-  * (2024, 2025, 2026) The Conference on Computer Vision and Pattern Recognition (CVPR).
+  * (2026) European Conference on Computer Vision (ECCV).
   * (2025) Winter Conference on Applications of Computer Vision (WACV).
-  * (2024, 2025) International Conference on Robotics and Automation (ICRA).
+  * (2024-2025) International Conference on Robotics and Automation (ICRA).
   * (2025) International Conference on Intelligent Robots and Systems (IROS).
 2. Journal Invited Reviewer:
-  * IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE T-PAMI)
+  * International Journal of Computer Vision (IJCV).
+  * IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE T-PAMI).
   * IEEE Transactions on Neural Networks and Learning Systems (IEEE T-NNLS).
   * IEEE Transactions on Cybernetics (IEEE T-Cyber).
   * IEEE Robotics and Automation Letters (RA-L).
