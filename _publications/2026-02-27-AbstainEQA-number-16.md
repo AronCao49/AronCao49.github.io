@@ -2,7 +2,7 @@
 title: "TGSFormer: Scalable Temporal Gaussian Splatting for Embodied Semantic Scene Completion"
 img: "pub_images/pub_tgsformer.png"
 collection: publications
-category: conference
+category: conferences
 # permalink: /publication/2024-10-01-VudaSurvey-number-2
 date: 2026-02-28
 venue: 'Conference on Computer Vision and Pattern Recognition (CVPR)'
