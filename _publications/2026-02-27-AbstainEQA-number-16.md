@@ -1,5 +1,5 @@
 ---
-title: "When Robots Should Say "I Don't Know": Benchmarking Abstention in Embodied Question Answering"
+title: "When Robots Should Say I Don't Know: Benchmarking Abstention in Embodied Question Answering"
 img: "pub_images/pub_abstaineqa.png"
 collection: publications
 category: conferences
