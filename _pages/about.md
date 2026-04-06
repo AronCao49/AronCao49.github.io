@@ -13,6 +13,7 @@ My research mainly focuses on **efficient multi-modal 3D perception** and **vide
 
 Recent News
 ======
+* \[03/2026\]: I have been awarded my PhD degree! Sincere gratitude to my supervisor Prof. Xie, and to all the colleagues and collaborators who supported me throughout this journey.
 * \[02/2026\]: **Two paper** have been accepted by CVPR 2026! Congrats to all collaborators! Arxiv version are available at these links: [TGSFormer](https://arxiv.org/pdf/2512.00300) and [AbstainEQA](https://arxiv.org/abs/2512.04597).
 * \[11/2025\]: I'm excited to share that I've joined the MIL Lab (Harada-Kurose-Mukuta Lab) at The University of Tokyo as a Project Academic Specialist!
 * \[11/2025\]: **One paper** has been accepted by RA-L! Congrats to all collaborators! Check this [link](https://ieeexplore.ieee.org/abstract/document/11123778/) for more details
@@ -24,7 +25,6 @@ Recent News
 * \[02/2024\]: **Our dataset paper** has been accepted by CVPR 2024! Congrats to all the collaborators! Check the [MCD website](https://mcdviral.github.io/) for more details.
 * \[01/2024\]: **Two papers** have been accepted by ICRA 2024! Congrats to all the collaborators! Check our code repo [MoPA](https://github.com/AronCao49/MoPA) and [Outram](https://github.com/Pamphlett/Outram) for more details.
 * \[06/2023\]: **One paper** has been accepted by ICCV 2023! Check [the project site](https://sites.google.com/view/mmcotta) for more details.
-* \[03/2023\]: **One paper** has been accepted by T-Cyber! Check [this link](https://ieeexplore.ieee.org/document/10106103/) for more details.
 
 
 Reviewer Services
