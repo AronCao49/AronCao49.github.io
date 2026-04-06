@@ -7,5 +7,6 @@ category: conferences
 date: 2026-02-28
 venue: 'Conference on Computer Vision and Pattern Recognition (CVPR)'
 authors: Rui Qian*, <b>Haozhi Cao*</b>, Tianchen Deng*, Tianxin Hu, Weixiang Guo, Shenghai Yuan, Lihua Xie
+cordurl: 'https://github.com/Made-Gpt/TGSFormer'
 arxivurl: 'https://arxiv.org/abs/2512.00300'
 ---
